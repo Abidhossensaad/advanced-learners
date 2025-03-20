@@ -1,0 +1,1 @@
+<h1>Available Courses</h1>

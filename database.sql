@@ -1,0 +1,1 @@
+-- SQL file for Advanced Learners database structure

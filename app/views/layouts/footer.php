@@ -1,0 +1,1 @@
+<footer><p>© 2025 Advanced Learners</p></footer>
